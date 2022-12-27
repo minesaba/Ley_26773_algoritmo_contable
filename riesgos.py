@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import messagebox
-import math
 
 #LÓGICA y FUNCIONES
 
@@ -27,7 +26,7 @@ def salir():
 
 def mostrar_uso():
   msg = '''Calcula los siniestros que caen bajo la órbita de la Ley 26773 en la República Argentina, es decir, aquellos que ocurrieron entre el 26/10/2012 y el 23/01/2017, inclusive.'''
-  messagebox.showinfo("¿QUÉ SINIESTROS CALCULA ESTA HERRAMIENTA?", msg)
+  messagebox.showinfo("¿QUÉ SINIESTROS CALCULA ESTE ALGORITMO?", msg)
 
 def mostrar_infoadicional():
   msg = '''Ley 26773. Régimen de ordenamiento de la reparación de los daños derivados de los accidentes de trabajo y enfermedades profesionales.
