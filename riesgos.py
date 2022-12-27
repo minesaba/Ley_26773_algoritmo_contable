@@ -37,7 +37,7 @@ Publicada en el Boletín Oficial del 26 Octubre 2012 (Número: 32509).'''
   messagebox.showinfo("INFORMACIÓN ADICIONAL.", msg)
 
 def mostrar_acercade():
-  messagebox.showinfo("¿QUIÉN SOY?", "Creado por María Inés Abarrategui\nDiciembre, 2022\nEmail: minesaba@gmail.com")
+  messagebox.showinfo("¿QUIÉN SOY?", "Creado por María Inés\nDiciembre, 2022\nFinalidad: práctica en programación y en análisis funcional.")
 
 # INTERFAZ GRÁFICA
 
